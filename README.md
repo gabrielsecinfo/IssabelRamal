@@ -86,6 +86,8 @@ Configuração do primeiro ramal:
 <img src="ISSABEL/image17.png"/>
 
 Logo após ir em submit e depois em apply changes;
+
+
 <img src="ISSABEL/image18.png"/>
 
 Depois iremos criar o segundo ramal
@@ -114,7 +116,10 @@ Chamada no celular;
 <img src="ISSABEL/image24.png"/>
 
 CELULAR;
+
 <img src="ISSABEL/image25.png"/>
+
+
 OBS: A configuração do ramal no celular pelo sipdroid é o mesmo porém só altera o número. 
 
 
