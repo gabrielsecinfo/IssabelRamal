@@ -44,13 +44,18 @@ Seleção de software;
 
 
 <img src="ISSABEL/image8.png"/>
+
 Seleção de destinação da instalação;
+
 <img src="ISSABEL/image9.png"/>
 
 Aqui iremos selecionar para configurar a senha raiz ou a criação de usuário:
+
 <img src="ISSABEL/image10.png"/>
 
 Configuração de senha;
+
+
 <img src="ISSABEL/image11.png"/>
 
 Logo após você irá colocar uma nova senha;
@@ -93,7 +98,10 @@ Logo após ir em submit e depois em apply changes;
 Depois iremos criar o segundo ramal
 
 <img src="ISSABEL/image19.png"/>
+
 No dashboard mostra os dois ramais não registrados;
+
+
 <img src="ISSABEL/image20.png"/>
 
 3. Ambiente em funcionamento;
