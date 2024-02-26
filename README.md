@@ -12,7 +12,7 @@ software no celular por exemplo e configurar-lo desse jeito podendo ligar para o
 computador ou ao contrário.
 
 1. INSTALAÇÃO DO AMBIENTE;
-Realizando a instalação do ambiente virtualizado do ISSABEL, aqui iremos inser o 
+Realizando a instalação do ambiente virtualizado do ISSABEL, aqui iremos inserir o 
 nome da VM(VIRTUAL MACHINE) a pasta de locação, ISO (IMAGEM DO 
 SISTEMA) e o tipo do sistema
 
